@@ -27,7 +27,7 @@ func main() {
         return
     }
 
-    fmt.PrintLn(message)
+    fmt.Println(message)
 }
 ```
 Este ejemplo importa el paquete github.com/jeissonjf/greetings y llama la funcion Hello
